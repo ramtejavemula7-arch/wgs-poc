@@ -1,0 +1,45 @@
+ 
+2. roles/bigquery.dataViewer
+3. roles/bigquery.jobUser
+4. roles/aiplatform.user
+5. roles/serviceusage.serviceUsageConsumer
+6. roles/viewer (if not already assigned)
+ 
+Transaction
+A payment event processed through the payment system.
+ 
+Successful Transaction
+A transaction completed successfully.
+ 
+Failed Transaction
+A transaction that could not be completed.
+ 
+Settled Transaction
+A successful transaction whose funds have been transferred and finalized.
+ 
+In Process
+A transaction currently being processed.
+ 
+Successful Amount
+Total value of successful transactions.
+ 
+ 
+
+
+ 
+Sales
+Total revenue generated from customer orders.
+ 
+Profit
+Revenue remaining after subtracting costs.
+ 
+Customer
+A unique customer who places one or more orders.
+ 
+Order
+A unique purchase identified by Order_ID.
+ 
+ 
+
+
+ 
